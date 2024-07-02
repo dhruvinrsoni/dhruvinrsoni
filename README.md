@@ -31,3 +31,10 @@ You can click the Preview link to take a look at your changes.
 - [User dhruvinrsoni - Database Administrators Stack Exchange](https://dba.stackexchange.com/users/225107/dhruvinrsoni)
 - [User dhruvinrsoni - Web Application Stack Exchange](https://webapps.stackexchange.com/users/269046/dhruvinrsoni)
 - [User dhruvinrsoni - Unix & Linux Stack Exchange](https://unix.stackexchange.com/users/586729/dhruvinrsoni)
+
+## Badges/Certificates
+
+<div data-iframe-width='150' data-iframe-height='270' data-share-badge-id='82e2663e-909e-493d-b28f-617ba4627a71' data-share-badge-host='https://www.credly.com'></div><script type='text/javascript' async src='https://cdn.credly.com/assets/utilities/embed.js'></script>
+
+## Old Badge
+<html><head><script type="text/javascript" async src="https://cdn.credly.com/assets/utilities/embed.js"></script></head><body><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="82e2663e-909e-493d-b28f-617ba4627a71" data-share-badge-host="https://www.credly.com"></div></body></html>
