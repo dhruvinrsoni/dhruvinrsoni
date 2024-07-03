@@ -15,6 +15,7 @@ You can click the Preview link to take a look at your changes.
 - [Dhruvin Soni \| Google Cloud Skills Boost for Partners](https://partner.cloudskillsboost.google/public_profiles/963de973-47b9-49f7-85c4-8cd882b597e3)
 - [Dhruvin Soni \| Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/963de973-47b9-49f7-85c4-8cd882b597e3)
 - [Dhruvin Soni - Quora](https://www.quora.com/profile/Dhruvin-Soni-1/)
+- [Dhruvin Soni - Credly](https://credly.com/users/dhruvinrsoni)
 
 ## Social
 - [Dhruvin Soni \| LinkedIn](https://www.linkedin.com/in/dhruvinrsoni)
@@ -36,5 +37,3 @@ You can click the Preview link to take a look at your changes.
 
 <div data-iframe-width='150' data-iframe-height='270' data-share-badge-id='82e2663e-909e-493d-b28f-617ba4627a71' data-share-badge-host='https://www.credly.com'></div><script type='text/javascript' async src='https://cdn.credly.com/assets/utilities/embed.js'></script>
 
-## Old Badge
-<html><head><script type="text/javascript" async src="https://cdn.credly.com/assets/utilities/embed.js"></script></head><body><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="82e2663e-909e-493d-b28f-617ba4627a71" data-share-badge-host="https://www.credly.com"></div></body></html>
