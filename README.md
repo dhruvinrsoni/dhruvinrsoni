@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 - [Dhruvin Soni \| Google Cloud Skills Boost for Partners](https://partner.cloudskillsboost.google/public_profiles/963de973-47b9-49f7-85c4-8cd882b597e3)
 - [Dhruvin Soni \| Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/963de973-47b9-49f7-85c4-8cd882b597e3)
 - [Google Developer Program \| Google for Developers](https://developers.google.com/profile/u/dhruvinrsoni-zebra) or [g.dev/dhruvinrsoni-zebra](https://g.dev/dhruvinrsoni-zebra)
-- Personal: [Google Developer Program \| Google for Developers](https://developers.google.com/profile/u/dhruvinrsoni) or [g.dev/dhruvinrsoni](https://g.dev/dhruvinrsoni)
+- [Google Developer Program \| Google for Developers](https://developers.google.com/profile/u/dhruvinrsoni) or [g.dev/dhruvinrsoni](https://g.dev/dhruvinrsoni) (Personal)
 - [Dhruvin Soni - Credly](https://credly.com/users/dhruvinrsoni)
 
 
@@ -26,6 +26,10 @@ You can click the Preview link to take a look at your changes.
 - 🐤 [@dhruvinrsoni](https://twitter.com/dhruvinrsoni)
 - [Dhruvin Soni \| Facebook](https://www.facebook.com/dhruvinrsoni)
 - [Dhruvin Soni (@dhruvinrsoni) - Instagram](https://www.instagram.com/dhruvinrsoni)
+
+## Hosted Projects
+- Customized sample ToDo List as a [React App](https://first-todo-app-f98b3.firebaseapp.com/) (initial version)
+- Installable To Do List PWA - Progressive Web App(with some features): [To Do List App](https://todolist-dhruvinsoni.firebaseapp.com/)
 
 ----
 
