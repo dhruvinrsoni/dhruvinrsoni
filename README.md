@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Links to few of my profiles
+- GitHub account: [dhruvinrsoni (Dhruvin Soni)](https://github.com/dhruvinrsoni)
 - Org GitHub account: [dhruvinrsoni-zebra (Dhruvin Soni)](https://github.com/dhruvinrsoni-zebra)
 - [Google Developer Program \| Google for Developers](https://developers.google.com/profile/u/dhruvinrsoni-zebra) or [g.dev/dhruvinrsoni-zebra](https://g.dev/dhruvinrsoni-zebra)
 - [Dhruvin Soni \| Google Cloud Skills Boost for Partners](https://partner.cloudskillsboost.google/public_profiles/963de973-47b9-49f7-85c4-8cd882b597e3)
