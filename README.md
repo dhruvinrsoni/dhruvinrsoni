@@ -14,8 +14,7 @@ You can click the Preview link to take a look at your changes.
 - [Dhruvin Soni - Quora](https://www.quora.com/profile/Dhruvin-Soni-1/)
 - [User dhruvinrsoni - Stack Exchange](https://stackexchange.com/users/9085620/dhruvinrsoni?tab=accounts) | [Stack Overflow](https://stackoverflow.com/users/15077282/dhruvinrsoni) | [Super User](https://superuser.com/users/1266803/dhruvinrsoni) | [Meta Stack Exchange](https://meta.stackexchange.com/users/929110/dhruvinrsoni) | [MathOverflow](https://mathoverflow.net/users/173328/dhruvinrsoni) | [Database Administrators Stack Exchange](https://dba.stackexchange.com/users/225107/dhruvinrsoni) | [Web Application Stack Exchange](https://webapps.stackexchange.com/users/269046/dhruvinrsoni) | [Unix & Linux Stack Exchange](https://unix.stackexchange.com/users/586729/dhruvinrsoni)
 - Org GitHub account: [dhruvinrsoni-zebra (Dhruvin Soni)](https://github.com/dhruvinrsoni-zebra)
-- [Dhruvin Soni \| Google Cloud Skills Boost for Partners](https://partner.cloudskillsboost.google/public_profiles/963de973-47b9-49f7-85c4-8cd882b597e3)
-- [Dhruvin Soni \| Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/963de973-47b9-49f7-85c4-8cd882b597e3)
+- [Dhruvin Soni \| Google Cloud Skills Boost for Partners](https://partner.cloudskillsboost.google/public_profiles/963de973-47b9-49f7-85c4-8cd882b597e3) or [Dhruvin Soni \| Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/963de973-47b9-49f7-85c4-8cd882b597e3)
 - [Google Developer Program \| Google for Developers](https://developers.google.com/profile/u/dhruvinrsoni-zebra) or [g.dev/dhruvinrsoni-zebra](https://g.dev/dhruvinrsoni-zebra)
 - [Google Developer Program \| Google for Developers](https://developers.google.com/profile/u/dhruvinrsoni) or [g.dev/dhruvinrsoni](https://g.dev/dhruvinrsoni) (Personal)
 - [Dhruvin Soni - Credly](https://credly.com/users/dhruvinrsoni)
@@ -26,6 +25,12 @@ You can click the Preview link to take a look at your changes.
 - 🐤 [@dhruvinrsoni](https://twitter.com/dhruvinrsoni)
 - [Dhruvin Soni \| Facebook](https://www.facebook.com/dhruvinrsoni)
 - [Dhruvin Soni (@dhruvinrsoni) - Instagram](https://www.instagram.com/dhruvinrsoni)
+
+## Coding
+- [dhruvin1997 \| CodeChef User Profile for Dhruvin Soni \| CodeChef](https://www.codechef.com/users/dhruvin1997)
+- [Dhruvin Soni - DhruvinSoni \| HackerRank](https://www.hackerrank.com/profile/DhruvinSoni)
+- [dhruvinrsoni \| GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/dhruvinsoni/)
+- [dhruvinrsoni - LeetCode Profile](https://leetcode.com/u/dhruvinrsoni/)
 
 ## Hosted Projects
 - Customized sample ToDo List as a [React App](https://first-todo-app-f98b3.firebaseapp.com/) (initial version)
