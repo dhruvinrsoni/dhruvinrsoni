@@ -22,9 +22,10 @@ You can click the Preview link to take a look at your changes.
 
 ## Social
 - [Dhruvin Soni \| LinkedIn](https://www.linkedin.com/in/dhruvinrsoni)
-- 🐤 [@dhruvinrsoni](https://twitter.com/dhruvinrsoni)
+- [@dhruvinrsoni - Twitter/X 🐤 ](https://twitter.com/dhruvinrsoni) 
 - [Dhruvin Soni \| Facebook](https://www.facebook.com/dhruvinrsoni)
 - [Dhruvin Soni (@dhruvinrsoni) - Instagram](https://www.instagram.com/dhruvinrsoni)
+- [Dhruvin Soni - YouTube](https://www.youtube.com/@dhruvinrsoni)
 
 ## Coding
 - [dhruvin1997 \| CodeChef User Profile for Dhruvin Soni \| CodeChef](https://www.codechef.com/users/dhruvin1997)
