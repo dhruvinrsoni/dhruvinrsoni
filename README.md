@@ -46,3 +46,5 @@ You can click the Preview link to take a look at your changes.
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4615d0b4-735c-46b4-8f60-adc66fdbcf6f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="def05a50-2158-457b-9b77-ecbd12ff0e12" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2fa83b92-5e88-435c-84e2-11aa9582676f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
