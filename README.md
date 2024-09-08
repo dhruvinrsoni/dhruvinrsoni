@@ -37,6 +37,9 @@ You can click the Preview link to take a look at your changes.
 - Customized sample ToDo List as a [React App](https://first-todo-app-f98b3.firebaseapp.com/) (initial version)
 - Installable To Do List PWA - Progressive Web App(with some features): [To Do List App](https://todolist-dhruvinsoni.firebaseapp.com/)
 
+## Available Projects
+- Details hosted on GitHub Pages [Online Pizza Ordering System](https://dhruvinrsoni.github.io/online-pizza-ordering-system/)
+
 ----
 
 ## Badges/Certificates
