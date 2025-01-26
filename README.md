@@ -9,6 +9,14 @@ dhruvinrsoni/dhruvinrsoni is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
+## Table of Contents
+1. [Links to few of my profiles](#links-to-few-of-my-profiles)
+2. [Social](#social)
+3. [Coding](#coding)
+4. [Hosted Projects](#hosted-projects)
+5. [Available Projects](#available-projects)
+6. [Badges/Certificates](#badgescertificates)
+
 # Links to few of my profiles
 - GitHub account: [dhruvinrsoni (Dhruvin Soni)](https://github.com/dhruvinrsoni)
 - [Dhruvin Soni - Quora](https://www.quora.com/profile/Dhruvin-Soni-1/)
