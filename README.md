@@ -15,7 +15,8 @@ You can click the Preview link to take a look at your changes.
 3. [Coding](#coding)
 4. [Hosted Projects](#hosted-projects)
 5. [Available Projects](#available-projects)
-6. [Badges/Certificates](#badgescertificates)
+6. [Professional Summary](#professional-summary)
+7. [Badges/Certificates](#badgescertificates)
 
 # Links to few of my profiles
 - GitHub account: [dhruvinrsoni (Dhruvin Soni)](https://github.com/dhruvinrsoni)
@@ -47,6 +48,65 @@ You can click the Preview link to take a look at your changes.
 
 ## Available Projects
 - Details hosted on GitHub Pages [Online Pizza Ordering System](https://dhruvinrsoni.github.io/online-pizza-ordering-system/)
+
+[https://github.com/dhruvinrsoni-zebra/dhruvinrsoni-zebra](https://github.com/dhruvinrsoni-zebra/dhruvinrsoni-zebra)
+
+## Professional Summary
+Passionate Web Developer with experience in various web technologies and currently expanding my skills in DevOps. Proven ability to collaborate on projects and explore new technologies.
+
+Projects
+### Project 1: [zstock0holics](#https://www.github.com/dhruvinrsoni-zebra/zstock0holics)
+Basic project of hackathon that happened in the company. 
+[Link](https://www.github.com/dhruvinrsoni-zebra/zstock0holics)
+
+Welcome to my GitHub Page section of Professional Journey! Here, I share key milestones, testimonials, and future aspirations as I continue my journey in tech.
+
+### 🎉 Celebrating 5 Years at Zebra Technologies
+
+In July 2019, I embarked on an exciting journey with Reflexis Systems, now part of Zebra Technologies. Over the past five years, I've grown immensely, contributing to meaningful projects and honing my skills in full stack development, cloud computing, and DevOps.
+
+“Five Years of Growth: My Journey at Zebra Technologies”
+
+Introduction:
+Reflecting on my journey at Zebra Technologies, I am both proud and grateful for the growth and experiences I’ve had over the past five years. This milestone is a testament to the incredible support from my mentors, colleagues, and the innovative projects I’ve been a part of.
+
+Journey:
+My career began in July 2019, joining Reflexis Systems as a Software Developer. Working in the Advanced Analytics team, I immersed myself in backend development for the AI Performance Manager, laying a strong foundation for my technical skills.
+
+Growth:
+Throughout the years, I’ve achieved significant milestones. From developing core product features to leveraging Google Cloud technologies post-Zebra acquisition, I’ve continuously expanded my technical horizons. Implementing automated CI/CD pipelines and scalable ETL functions has been a rewarding experience.
+
+Reflections:
+This journey has been filled with highs, such as successful product launches, and challenges like navigating the global pandemic. Staying committed to one organization has taught me the value of loyalty and long-term relationships, principles I hold dear.
+
+Looking Ahead:
+As I look to the future, I am eager to continue my professional growth in data science and AI. Exploring new-gen trends and big data solutions, I aim to drive innovation and make a meaningful impact in the tech industry.
+
+Gratitude:
+I am deeply thankful for the support and guidance of my managers, directors, and colleagues. Your encouragement has been instrumental in my journey, and I look forward to many more years of collaboration and success.
+
+[Check out my LinkedIn post for more insights!](https://www.linkedin.com/posts/activity-7213586248383287297-gZ3I?utm_source=share&utm_medium=member_desktop) Awarded 5-Year Service Award at Zebra Technologies for outstanding contributions in software development and innovation. Demonstrated leadership in cloud computing and DevOps, enhancing product efficiency and customer satisfaction.
+
+### 📅 Timeline of Achievements
+
+- **2019**: Joined Reflexis Systems as a Software Developer in the Advanced Analytics team.
+- **2020**: Key contributor to the AI Performance Manager, enhancing backend solutions.
+- **2020 (Sep)**: Reflexis Systems acquired by Zebra Technologies; began leveraging Google Cloud technologies.
+- **2021**: Developed automated CI/CD pipelines and tackled security challenges.
+- **2022**: Implemented scalable ETL functions, ensuring robust performance in a microservice architecture.
+- **2023**: Recognized with a 5-Year Service Award for outstanding contributions.
+
+### 🚀 Future Goals
+
+Looking ahead, I am eager to further explore the fields of data science and AI, diving into big data solutions and new-generation trends. My aim is to continue driving innovation and delivering impactful solutions in the tech industry.
+
+Stay connected and follow my journey on [Twitter](https://x.com/dhruvinrsoni) for the latest updates!
+
+
+## Future Goals
+- Continue to expand my knowledge in DevOps and cloud technologies.
+- Work on more open-source projects and contribute to the community.
+- Explore new web development frameworks and tools.
 
 ----
 
