@@ -55,7 +55,7 @@ You can click the Preview link to take a look at your changes.
 Passionate Web Developer with experience in various web technologies and currently expanding my skills in DevOps. Proven ability to collaborate on projects and explore new technologies.
 
 Projects
-### Project 1: [zstock0holics](#https://www.github.com/dhruvinrsoni-zebra/zstock0holics)
+### Project 1: [zstock0holics](https://www.github.com/dhruvinrsoni-zebra/zstock0holics)
 Basic project of hackathon that happened in the company. 
 [Link](https://www.github.com/dhruvinrsoni-zebra/zstock0holics)
 
