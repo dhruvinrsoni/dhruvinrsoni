@@ -27,6 +27,7 @@ You can click the Preview link to take a look at your changes.
 - [Google Developer Program \| Google for Developers](https://developers.google.com/profile/u/dhruvinrsoni-zebra) or [g.dev/dhruvinrsoni-zebra](https://g.dev/dhruvinrsoni-zebra)
 - [Google Developer Program \| Google for Developers](https://developers.google.com/profile/u/dhruvinrsoni) or [g.dev/dhruvinrsoni](https://g.dev/dhruvinrsoni) (Personal)
 - [Dhruvin Soni - Credly](https://credly.com/users/dhruvinrsoni)
+- [dhruvinrsoni \| Microsoft Learn](https://learn.microsoft.com/en-us/users/dhruvinrsoni)
 
 
 ## Social
