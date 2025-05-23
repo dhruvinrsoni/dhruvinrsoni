@@ -120,3 +120,5 @@ Stay connected and follow my journey on [Twitter](https://x.com/dhruvinrsoni) fo
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="def05a50-2158-457b-9b77-ecbd12ff0e12" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2fa83b92-5e88-435c-84e2-11aa9582676f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1ec94614-09c8-4996-b497-29332b7fbb32" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
