@@ -44,8 +44,13 @@ You can click the Preview link to take a look at your changes.
 - [dhruvinrsoni - LeetCode Profile](https://leetcode.com/u/dhruvinrsoni/)
 
 ## Hosted Projects
+
+### ToDo List App
 - Customized sample ToDo List as a [React App](https://first-todo-app-f98b3.firebaseapp.com/) (initial version)
 - Installable To Do List PWA - Progressive Web App(with some features): [To Do List App](https://todolist-dhruvinsoni.firebaseapp.com/)
+
+### Cipher Alchemist
+- [Cipher Alchemist – Secure Phrase-to-Password Generator](https://dhruvinrsoni.github.io/cipher-alchemist/) 🚀
 
 ## Available Projects
 - Details hosted on GitHub Pages [Online Pizza Ordering System](https://dhruvinrsoni.github.io/online-pizza-ordering-system/)
