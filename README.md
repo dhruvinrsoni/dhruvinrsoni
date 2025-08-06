@@ -53,7 +53,7 @@ You can click the Preview link to take a look at your changes.
 - [Cipher Alchemist – Secure Phrase-to-Password Generator](https://dhruvinrsoni.github.io/cipher-alchemist/) 🚀
 
 ### Smart Logger (V1 & V2)
-- [https://dhruvinrsoni.github.io/smart-logger/](https://dhruvinrsoni.github.io/smart-logger/) 📓
+- [Smart Logger](https://dhruvinrsoni.github.io/smart-logger/) 📓
 
 ## Available Projects
 - Details hosted on GitHub Pages [Online Pizza Ordering System](https://dhruvinrsoni.github.io/online-pizza-ordering-system/)
