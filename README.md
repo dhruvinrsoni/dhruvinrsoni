@@ -121,7 +121,7 @@ Stay connected and follow my journey on [Twitter](https://x.com/dhruvinrsoni) fo
 
 ## Badges/Certificates
 
-[Cloud Technical Series - AI Agents edition - August 20, 2025](https://www.credential.net/5bf96f01-6a1c-42de-828e-18d43dcb142e)
+### Credly
 
 <div data-iframe-width='150' data-iframe-height='270' data-share-badge-id='82e2663e-909e-493d-b28f-617ba4627a71' data-share-badge-host='https://www.credly.com'></div><script type='text/javascript' async src='https://cdn.credly.com/assets/utilities/embed.js'></script>
 
@@ -132,6 +132,11 @@ Stay connected and follow my journey on [Twitter](https://x.com/dhruvinrsoni) fo
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2fa83b92-5e88-435c-84e2-11aa9582676f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1ec94614-09c8-4996-b497-29332b7fbb32" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+### Accredible
+
+[Cloud Technical Series - AI Agents edition - August 20, 2025](https://www.credential.net/5bf96f01-6a1c-42de-828e-18d43dcb142e)
+https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/158642699
 
 ## Blogs
 [Future with GenAI as of Aug 25](https://dhruvinrsoni.notion.site/Future-with-GenAI-as-of-Aug-25-25997971458a801f8fd9e3bfa1797aa3)
