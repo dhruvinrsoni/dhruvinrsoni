@@ -121,6 +121,8 @@ Stay connected and follow my journey on [Twitter](https://x.com/dhruvinrsoni) fo
 
 ## Badges/Certificates
 
+[Cloud Technical Series - AI Agents edition - August 20, 2025](https://www.credential.net/5bf96f01-6a1c-42de-828e-18d43dcb142e)
+
 <div data-iframe-width='150' data-iframe-height='270' data-share-badge-id='82e2663e-909e-493d-b28f-617ba4627a71' data-share-badge-host='https://www.credly.com'></div><script type='text/javascript' async src='https://cdn.credly.com/assets/utilities/embed.js'></script>
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4615d0b4-735c-46b4-8f60-adc66fdbcf6f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
