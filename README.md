@@ -130,3 +130,9 @@ Stay connected and follow my journey on [Twitter](https://x.com/dhruvinrsoni) fo
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2fa83b92-5e88-435c-84e2-11aa9582676f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1ec94614-09c8-4996-b497-29332b7fbb32" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+## Blogs
+[Future with GenAI as of Aug 25](https://dhruvinrsoni.notion.site/Future-with-GenAI-as-of-Aug-25-25997971458a801f8fd9e3bfa1797aa3)
+
+### Future with GenAI as of Aug 25
+<iframe src="https://dhruvinrsoni.notion.site/ebd/25997971458a801f8fd9e3bfa1797aa3" width="100%" height="600" frameborder="0" allowfullscreen />
