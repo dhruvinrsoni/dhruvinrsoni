@@ -146,7 +146,7 @@ Stay connected and follow my journey on [Twitter](https://x.com/dhruvinrsoni) fo
 [Future with GenAI as of Aug 25](https://dhruvinrsoni.notion.site/Future-with-GenAI-as-of-Aug-25-25997971458a801f8fd9e3bfa1797aa3)
 
 ### Future with GenAI as of Aug 25
-<iframe src="https://dhruvinrsoni.notion.site/ebd/25997971458a801f8fd9e3bfa1797aa3" width="100%" height="600" frameborder="0" allowfullscreen />
+<iframe src="https://dhruvinrsoni.notion.site/ebd/25997971458a801f8fd9e3bfa1797aa3" width="100%" height="600" frameborder="0" allowfullscreen></iframe>
 
 ## Resume
 
