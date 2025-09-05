@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @dhruvinrsoni. Welcome to my website(Site Under Maintenance and Upgrade in Progress... 📈👍)
+- 👋 Hi, I’m @dhruvinrsoni. Welcome to my website(Site Under Maintenance and Upgrade in Progress... 📈👍)! 😊 This is just a friendly placeholder page while I work on building a proper portfolio site—stay tuned, something cool is coming soon!
+ You can call me by my first name "Dhruvin" (that's pronounced [d̪ʱruʋin], and written as ધ્રુવિન in Gujarati).
+- 🎓I graduated with a BE (Hons.) in [Computer Science](https://www.bits-pilani.ac.in/goa/computer-science-information-systems/) from [BITS Pilani](https://www.bits-pilani.ac.in/), [Goa Campus](https://www.bits-pilani.ac.in/goa/).
 - 👀 I’m interested in ... any and everything. (Until it interests me :P)
 - 🌱 I’m currently learning ... everything. (something on beginner level and somethings on advance level) #AlwaysAStudent
 - 💞️ I’m looking to collaborate on ... (what can bring positive change and also generate wealth)
@@ -17,6 +19,8 @@ You can click the Preview link to take a look at your changes.
 5. [Available Projects](#available-projects)
 6. [Professional Summary](#professional-summary)
 7. [Badges/Certificates](#badgescertificates)
+8. [Blogs](#blogs)
+9. [Resume](#resume)
 
 # Links to few of my profiles
 - GitHub account: [dhruvinrsoni (Dhruvin Soni)](https://github.com/dhruvinrsoni)
@@ -143,3 +147,8 @@ Stay connected and follow my journey on [Twitter](https://x.com/dhruvinrsoni) fo
 
 ### Future with GenAI as of Aug 25
 <iframe src="https://dhruvinrsoni.notion.site/ebd/25997971458a801f8fd9e3bfa1797aa3" width="100%" height="600" frameborder="0" allowfullscreen />
+
+## Resume
+
+For now, this page is just a simple placeholder. If you’d like to know more about my education & work etc. or get in touch, please feel free to check out my LinkedIn profile—consider it my resume for now!
+See you...🙂
