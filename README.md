@@ -1,11 +1,39 @@
-<br />👋 Hi, I’m @dhruvinrsoni. Welcome to my website(Site Under Maintenance and Upgrade in Progress... 📈👍)! 😊 This is just a friendly placeholder page while I work on building a proper portfolio site—stay tuned, something cool is coming soon!
- You can call me by my first name "Dhruvin" (that's pronounced [d̪ʱruʋin], and written as ધ્રુવિન in Gujarati).
-<br />🎓I graduated with a BE (Hons.) in [Computer Science](https://www.bits-pilani.ac.in/goa/computer-science-information-systems/) from [BITS Pilani](https://www.bits-pilani.ac.in/), [Goa Campus](https://www.bits-pilani.ac.in/goa/).
-<br />👀 I’m interested in ... any and everything. (Until it interests me :P)
-<br />🌱 I’m currently learning ... everything. (something on beginner level and somethings on advance level) #AlwaysAStudent
-<br />💞️ I’m looking to collaborate on ... (what can bring positive change and also generate wealth)
-<br />📫 How to reach me ... (any way, internet has brought world on palms)
+# 👋 Hi, I’m @dhruvinrsoni
 
+Welcome to my website! 🌐 **(Site Under Maintenance and Upgrade in Progress... 📈👍)**  
+😊 This is just a friendly placeholder page while I work on building a proper portfolio site—stay tuned, something **cool** is coming soon! 🚀  
+
+You can call me by my first name **"Dhruvin"** (*that's pronounced [d̪ʱruʋin], and written as **ધ્રુવિન** in Gujarati*).  
+
+---
+
+### 🎓 About Me  
+- I graduated with a **BE (Hons.) in [Computer Science](https://www.bits-pilani.ac.in/goa/computer-science-information-systems/)** from **[BITS Pilani](https://www.bits-pilani.ac.in/), [Goa Campus](https://www.bits-pilani.ac.in/goa/)**.  
+- I’m currently working as a **Senior Software Engineer** at Zebra Technologies.  
+- My expertise spans **full-stack development, cloud computing, DevOps, and security**, but I’m also a curious learner, always exploring the latest trends in tech.  
+
+---
+
+### 🌟 Fun Facts  
+- **👀 Interests:**  
+  I’m interested in... literally **anything and everything**! (As long as it piques my curiosity 😄). From **tech innovations** to **arts and culture**, I’m always eager to learn something new.  
+
+- **🌱 Currently Learning:**  
+  A mix of **beginner-level experiments** and **advanced challenges**. I’m currently diving into **AI, distributed systems, and big data solutions**. #AlwaysAStudent  
+
+- **💞 Collaboration Goals:**  
+  I’m looking to collaborate on projects that can **bring positive change**, **foster innovation**, and **generate real-world impact** (bonus if they’re also fun and challenging!).  
+
+---
+
+### 📫 How to Reach Me  
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/dhruvinrsoni/).  
+- Check out my projects and contributions here on [GitHub](https://github.com/dhruvinrsoni).  
+- The internet has made the world smaller—feel free to reach out anytime! 🌍  
+
+---
+
+Stay tuned for more updates! 🚀  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dhruvinrsoni) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhruvinrsoni) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvinrsoni) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Dhruvin-Soni-1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dhruvinrsoni) 
