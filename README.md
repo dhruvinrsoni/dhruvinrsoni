@@ -1,5 +1,10 @@
-# 💫 About Me:
-👋 Hi, I’m @dhruvinrsoni. Welcome to my website(Site Under Maintenance and Upgrade in Progress… 📈👍)! 😊 This is just a friendly placeholder page while I work on building a proper portfolio site—stay tuned, something cool is coming soon! You can call me by my first name “Dhruvin” (that’s pronounced [d̪ʱruʋin], and written as ધ્રુવિન in Gujarati).<br>🎓I graduated with a BE (Hons.) in Computer Science from BITS Pilani, Goa Campus.<br>👀 I’m interested in … any and everything. (Until it interests me :P)<br>🌱 I’m currently learning … everything. (something on beginner level and somethings on advance level) #AlwaysAStudent<br>💞️ I’m looking to collaborate on … (what can bring positive change and also generate wealth)<br>📫 How to reach me … (any way, internet has brought world on palms)
+<br />👋 Hi, I’m @dhruvinrsoni. Welcome to my website(Site Under Maintenance and Upgrade in Progress... 📈👍)! 😊 This is just a friendly placeholder page while I work on building a proper portfolio site—stay tuned, something cool is coming soon!
+ You can call me by my first name "Dhruvin" (that's pronounced [d̪ʱruʋin], and written as ધ્રુવિન in Gujarati).
+<br />🎓I graduated with a BE (Hons.) in [Computer Science](https://www.bits-pilani.ac.in/goa/computer-science-information-systems/) from [BITS Pilani](https://www.bits-pilani.ac.in/), [Goa Campus](https://www.bits-pilani.ac.in/goa/).
+<br />👀 I’m interested in ... any and everything. (Until it interests me :P)
+<br />🌱 I’m currently learning ... everything. (something on beginner level and somethings on advance level) #AlwaysAStudent
+<br />💞️ I’m looking to collaborate on ... (what can bring positive change and also generate wealth)
+<br />📫 How to reach me ... (any way, internet has brought world on palms)
 
 
 ## 🌐 Socials:
