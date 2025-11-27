@@ -93,9 +93,9 @@ You can click the Preview link to take a look at your changes.
 - [Dhruvin Soni - YouTube](https://www.youtube.com/@dhruvinrsoni)
 
 ## Coding
-- [dhruvin1997 \| CodeChef User Profile for Dhruvin Soni \| CodeChef](https://www.codechef.com/users/dhruvin1997)
+- [dhruvinrsoni \| CodeChef User Profile for Dhruvin Soni \| CodeChef](https://www.codechef.com/users/dhruvinrsoni)
 - [Dhruvin Soni - DhruvinSoni \| HackerRank](https://www.hackerrank.com/profile/DhruvinSoni)
-- [dhruvinrsoni \| GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/dhruvinsoni/)
+- [dhruvinrsoni \| GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/dhruvinrsoni/)
 - [dhruvinrsoni - LeetCode Profile](https://leetcode.com/u/dhruvinrsoni/)
 
 ## Hosted Projects
