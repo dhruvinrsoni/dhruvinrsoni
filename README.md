@@ -196,10 +196,13 @@ Stay connected and follow my journey on [Twitter](https://x.com/dhruvinrsoni) fo
 | <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/174338947" alt="Cloud Technical Series - OnBoard Edition Badge"/> | [Cloud Technical Series - OnBoard Edition - February 13, 2026](https://googlecloudapac.accredible.com/7cb210bd-1ef0-4af4-9b45-a337b71825d3#acc.97xDj3ko) |
 
 ## Blogs
-[Future with GenAI as of Aug 25](https://dhruvinrsoni.notion.site/Future-with-GenAI-as-of-Aug-25-25997971458a801f8fd9e3bfa1797aa3)
+1st [Future with GenAI as of Aug 25](https://dhruvinrsoni.notion.site/Future-with-GenAI-as-of-Aug-25-25997971458a801f8fd9e3bfa1797aa3)
 
-### Future with GenAI as of Aug 25
-<iframe src="https://dhruvinrsoni.notion.site/ebd/25997971458a801f8fd9e3bfa1797aa3" width="100%" height="600" frameborder="0" allowfullscreen></iframe>
+### [Learning on the edge - Technocal Blogs and Articles](https://dhruvinrsoni.notion.site/Learning-on-the-edge-Technical-Blogs-and-Articles-2d197971458a80cabfd9c2494d3b3abe?source=copy_link)
+<iframe src="https://dhruvinrsoni.notion.site/ebd//2d197971458a80cabfd9c2494d3b3abe" width="100%" height="600" frameborder="0" allowfullscreen />
+
+### [Around and Beyond Horizon - Blogs and Articles](https://dhruvinrsoni.notion.site/Around-and-Beyond-Horizon-Blogs-and-Articles-2d197971458a803abf7be8245577b65b?source=copy_link)
+<iframe src="https://dhruvinrsoni.notion.site/ebd//2d197971458a803abf7be8245577b65b" width="100%" height="600" frameborder="0" allowfullscreen />
 
 ## Resume
 
