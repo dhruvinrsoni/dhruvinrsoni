@@ -206,7 +206,6 @@ Stay connected and follow my journey on [Twitter](https://x.com/dhruvinrsoni) fo
   width="100%"
   height="600"
   frameborder="0"
-  loading="lazy"
   allow="fullscreen">
 </iframe>
 
@@ -219,7 +218,6 @@ Stay connected and follow my journey on [Twitter](https://x.com/dhruvinrsoni) fo
   width="100%"
   height="600"
   frameborder="0"
-  loading="lazy"
   allow="fullscreen">
 </iframe>
 
