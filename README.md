@@ -193,6 +193,18 @@ Stay connected and follow my journey on [Twitter](https://x.com/dhruvinrsoni) fo
 [Cloud Technical Series - AI Agents edition - August 20, 2025](https://www.credential.net/5bf96f01-6a1c-42de-828e-18d43dcb142e)
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/158642699" alt="Cloud Technical Series - AI Agents edition Badge"/>
 
+[Cloud Technical Series - OnBoard Edition - February 13, 2026](https://googlecloudapac.accredible.com/7cb210bd-1ef0-4af4-9b45-a337b71825d3#acc.97xDj3ko)
+
+https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/174338947
+
+<iframe
+  src="https://googlecloudapac.accredible.com/embed/7cb210bd-1ef0-4af4-9b45-a337b71825d3"
+  width="800"
+  height="600"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
+
 ## Blogs
 [Future with GenAI as of Aug 25](https://dhruvinrsoni.notion.site/Future-with-GenAI-as-of-Aug-25-25997971458a801f8fd9e3bfa1797aa3)
 
