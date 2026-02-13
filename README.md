@@ -207,8 +207,7 @@ Stay connected and follow my journey on [Twitter](https://x.com/dhruvinrsoni) fo
   height="600"
   frameborder="0"
   loading="lazy"
-  allow="fullscreen"
-  sandbox="allow-scripts allow-same-origin allow-popups allow-forms">
+  allow="fullscreen">
 </iframe>
 
 
@@ -221,8 +220,7 @@ Stay connected and follow my journey on [Twitter](https://x.com/dhruvinrsoni) fo
   height="600"
   frameborder="0"
   loading="lazy"
-  allow="fullscreen"
-  sandbox="allow-scripts allow-same-origin allow-popups allow-forms">
+  allow="fullscreen">
 </iframe>
 
 
