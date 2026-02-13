@@ -201,24 +201,28 @@ Stay connected and follow my journey on [Twitter](https://x.com/dhruvinrsoni) fo
 ### [Learning on the edge - Technocal Blogs and Articles](https://dhruvinrsoni.notion.site/Learning-on-the-edge-Technical-Blogs-and-Articles-2d197971458a80cabfd9c2494d3b3abe?source=copy_link)
 <!-- <iframe src="https://dhruvinrsoni.notion.site/ebd//2d197971458a80cabfd9c2494d3b3abe" width="100%" height="600" frameborder="0" allowfullscreen /> -->
 <iframe
-  src="https://dhruvinrsoni.notion.site/Learning-on-the-edge-Technical-Blogs-and-Articles-2d197971458a80cabfd9c2494d3b3abe"
+  src="https://dhruvinrsoni.notion.site/ebd//2d197971458a80cabfd9c2494d3b3abe"
   title="Learning on the edge - Technical Blogs and Articles"
   width="100%"
   height="600"
   frameborder="0"
-  allow="fullscreen">
+  loading="lazy"
+  allow="fullscreen"
+  sandbox="allow-scripts allow-same-origin allow-popups allow-forms">
 </iframe>
 
 
 ### [Around and Beyond Horizon - Blogs and Articles](https://dhruvinrsoni.notion.site/Around-and-Beyond-Horizon-Blogs-and-Articles-2d197971458a803abf7be8245577b65b?source=copy_link)
 <!-- <iframe src="https://dhruvinrsoni.notion.site/ebd//2d197971458a803abf7be8245577b65b" width="100%" height="600" frameborder="0" allowfullscreen /> -->
 <iframe
-  src="https://dhruvinrsoni.notion.site/Around-and-Beyond-Horizon-Blogs-and-Articles-2d197971458a803abf7be8245577b65b"
+  src="https://dhruvinrsoni.notion.site/ebd//2d197971458a803abf7be8245577b65b"
   title="Around and Beyond Horizon - Blogs and Articles"
   width="100%"
   height="600"
   frameborder="0"
-  allow="fullscreen">
+  loading="lazy"
+  allow="fullscreen"
+  sandbox="allow-scripts allow-same-origin allow-popups allow-forms">
 </iframe>
 
 
