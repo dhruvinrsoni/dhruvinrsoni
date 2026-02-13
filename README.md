@@ -190,12 +190,10 @@ Stay connected and follow my journey on [Twitter](https://x.com/dhruvinrsoni) fo
 
 ### Accredible
 
-[Cloud Technical Series - AI Agents edition - August 20, 2025](https://www.credential.net/5bf96f01-6a1c-42de-828e-18d43dcb142e)
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/158642699" alt="Cloud Technical Series - AI Agents edition Badge"/>
-
-[Cloud Technical Series - OnBoard Edition - February 13, 2026](https://googlecloudapac.accredible.com/7cb210bd-1ef0-4af4-9b45-a337b71825d3#acc.97xDj3ko)
-
-https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/174338947
+| Badges | Links |
+|--------|-------|
+| <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/158642699" alt="Cloud Technical Series - AI Agents edition Badge"/> | [Cloud Technical Series - AI Agents edition - August 20, 2025](https://www.credential.net/5bf96f01-6a1c-42de-828e-18d43dcb142e) |
+| <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/174338947" alt="Cloud Technical Series - OnBoard Edition Badge"/> | [Cloud Technical Series - OnBoard Edition - February 13, 2026](https://googlecloudapac.accredible.com/7cb210bd-1ef0-4af4-9b45-a337b71825d3#acc.97xDj3ko) |
 
 <iframe
   src="https://googlecloudapac.accredible.com/embed/7cb210bd-1ef0-4af4-9b45-a337b71825d3"
