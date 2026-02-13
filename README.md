@@ -198,7 +198,7 @@ Stay connected and follow my journey on [Twitter](https://x.com/dhruvinrsoni) fo
 ## Blogs
 1st [Future with GenAI as of Aug 25](https://dhruvinrsoni.notion.site/Future-with-GenAI-as-of-Aug-25-25997971458a801f8fd9e3bfa1797aa3)
 
-### [Learning on the edge - Technocal Blogs and Articles](https://dhruvinrsoni.notion.site/Learning-on-the-edge-Technical-Blogs-and-Articles-2d197971458a80cabfd9c2494d3b3abe?source=copy_link)
+### [Learning on the edge - Technical Blogs and Articles](https://dhruvinrsoni.notion.site/Learning-on-the-edge-Technical-Blogs-and-Articles-2d197971458a80cabfd9c2494d3b3abe?source=copy_link)
 <!-- <iframe src="https://dhruvinrsoni.notion.site/ebd//2d197971458a80cabfd9c2494d3b3abe" width="100%" height="600" frameborder="0" allowfullscreen /> -->
 <iframe
   src="https://dhruvinrsoni.notion.site/ebd//2d197971458a80cabfd9c2494d3b3abe"
