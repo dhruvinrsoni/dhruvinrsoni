@@ -1,0 +1,48 @@
+# _config.yml — Jekyll site config for the Portfolio.
+# This file is read at build time by GitHub Pages.
+# Values flow into auto-generated <meta> / JSON-LD via the
+# jekyll-seo-tag plugin (which the default GitHub Pages theme
+# includes via {% seo %} in its head layout).
+
+# ----- Site identity (drives <title>, og:title, twitter:title) -----
+title: Dhruvin Soni — Portfolio
+description: >-
+  Long-form profile site of Dhruvin Soni — Senior Software Engineer at
+  Zebra Technologies. Bio, tech stack, journey, blogs, and badges.
+
+# ----- Canonical URL -----
+url: https://dhruvinrsoni.github.io
+baseurl: /dhruvinrsoni
+
+# ----- Author (used by jekyll-seo-tag for og:author + JSON-LD Person) -----
+author:
+  name: Dhruvin Soni
+  url: https://github.com/dhruvinrsoni
+
+# ----- Twitter / X (drives twitter:site, twitter:creator, twitter:card) -----
+twitter:
+  username: dhruvinrsoni
+  card: summary_large_image
+
+# ----- Social links (added to JSON-LD sameAs[]) -----
+social:
+  name: Dhruvin Soni
+  links:
+    - https://github.com/dhruvinrsoni
+    - https://www.linkedin.com/in/dhruvinrsoni/
+    - https://twitter.com/dhruvinrsoni
+    - https://www.youtube.com/@dhruvinrsoni
+    - https://www.instagram.com/dhruvinrsoni
+    - https://credly.com/users/dhruvinrsoni
+
+# ----- Locale -----
+lang: en-US
+
+# TODO: once a 1200x630 PNG is added at /assets/og-image.png in the repo,
+# uncomment the next line to wire it into og:image / twitter:image:
+# image: /dhruvinrsoni/assets/og-image.png
+
+# ----- Plugins (allowed on GitHub Pages) -----
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
