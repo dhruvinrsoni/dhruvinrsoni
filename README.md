@@ -1,5 +1,7 @@
 # 👋 Hi, I’m @dhruvinrsoni
 
+> 🌐 **Live dashboard:** [dhruvinrsoni.github.io](https://dhruvinrsoni.github.io/) — one-stop hub for all my projects, live demos, Chrome extensions, and profiles.
+
 Welcome to my website! 🌐 **(Site Under Maintenance and Upgrade in Progress... 📈👍)**  
 😊 This is just a friendly placeholder page while I work on building a proper portfolio site—stay tuned, something **cool** is coming soon! 🚀  
 
