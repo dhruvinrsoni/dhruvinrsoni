@@ -100,22 +100,35 @@ You can click the Preview link to take a look at your changes.
 - [dhruvinrsoni \| GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/dhruvinrsoni/)
 - [dhruvinrsoni - LeetCode Profile](https://leetcode.com/u/dhruvinrsoni/)
 
-## Hosted Projects
+## Projects
 
-### ToDo List App
-- Customized sample ToDo List as a [React App](https://first-todo-app-f98b3.firebaseapp.com/) (initial version)
-- Installable To Do List PWA - Progressive Web App(with some features): [To Do List App](https://todolist-dhruvinsoni.firebaseapp.com/)
+Curated set of work worth a click. For the full live dashboard with sort / share / QR per project, see **[Launchpad](https://dhruvinrsoni.github.io/)**.
 
-### Cipher Alchemist
-- [Cipher Alchemist – Secure Phrase-to-Password Generator](https://dhruvinrsoni.github.io/cipher-alchemist/) 🚀
+- **🧠 [Smruti Cortex](https://github.com/dhruvinrsoni/smruti-cortex)** — Chrome extension for ultra-fast browser history search with optional local AI (Ollama).
+  [Web Store](https://chromewebstore.google.com/detail/ecnkiihcifbfnhjblicfbppplobiicoi) · [Live](https://dhruvinrsoni.github.io/smruti-cortex/quality-report/)
 
-### Smart Logger (V1 & V2)
-- [Smart Logger](https://dhruvinrsoni.github.io/smart-logger/) 📓
+- **💬 [Samvada Studio](https://github.com/dhruvinrsoni/samvada-studio)** — Multi-provider LLM chat UI (OpenAI · Anthropic · Google · Ollama · Azure).
+  [Live](https://dhruvinrsoni.github.io/samvada-studio/) · [Product Hunt](https://www.producthunt.com/products/samvada-studio)
 
-## Available Projects
-- Details hosted on GitHub Pages [Online Pizza Ordering System](https://dhruvinrsoni.github.io/online-pizza-ordering-system/)
+- **🔐 [Cipher Alchemist](https://github.com/dhruvinrsoni/cipher-alchemist)** — Secure, offline-capable phrase-to-password generator (PWA).
+  [Live](https://dhruvinrsoni.github.io/cipher-alchemist/)
 
-[https://github.com/dhruvinrsoni-zebra/dhruvinrsoni-zebra](https://github.com/dhruvinrsoni-zebra/dhruvinrsoni-zebra)
+- **📓 [Smart Logger](https://github.com/dhruvinrsoni/smart-logger)** — Privacy-first offline logger with dual UI, CSV/JSON export (PWA).
+  [Live](https://dhruvinrsoni.github.io/smart-logger/)
+
+- **🌱 [Ankura Array](https://github.com/dhruvinrsoni/ankura-array)** — Offline-first nano-apps incubator — Vaak-Smith and GenAI-Yukti-Deck inside.
+  [Live](https://dhruvinrsoni.github.io/ankura-array/)
+
+- **🌿 [Agentskills Garden](https://github.com/dhruvinrsoni/agentskills-garden)** — 88 hierarchical AI-agent skills, constitution-driven (Satya · Dharma · Ahimsa · Pragya).
+  [Live](https://dhruvinrsoni.github.io/agentskills-garden/)
+
+- **⚡ [Power User Scripts](https://github.com/dhruvinrsoni/power-user-scripts)** — Cross-platform productivity scripts: batch, PowerShell, shell, registry tweaks.
+  [Live](https://dhruvinrsoni.github.io/power-user-scripts/)
+
+- **✅ [To-Do List PWA](https://github.com/dhruvinrsoni/todolistapp)** — Installable React to-do list — Progressive Web App hosted on Firebase.
+  [Live](https://todolist-dhruvinsoni.firebaseapp.com/)
+
+- **✍️ Writing & Blogs** — [Tech Blogs](https://dhruvinrsoni.notion.site/Learning-on-the-edge-Technical-Blogs-and-Articles-2d197971458a80cabfd9c2494d3b3abe) · [General Blogs](https://dhruvinrsoni.notion.site/Around-and-Beyond-Horizon-Blogs-and-Articles-2d197971458a803abf7be8245577b65b) · [GenAI · origin](https://dhruvinrsoni.notion.site/Future-with-GenAI-as-of-Aug-25-25997971458a801f8fd9e3bfa1797aa3)
 
 ## Professional Summary
 Passionate Web Developer with experience in various web technologies and currently expanding my skills in DevOps. Proven ability to collaborate on projects and explore new technologies.
