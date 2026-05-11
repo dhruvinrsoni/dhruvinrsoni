@@ -130,6 +130,9 @@ Curated set of work worth a click. For the full live dashboard with sort / share
 
 - **✍️ Writing & Blogs** — [Tech Blogs](https://dhruvinrsoni.notion.site/Learning-on-the-edge-Technical-Blogs-and-Articles-2d197971458a80cabfd9c2494d3b3abe) · [General Blogs](https://dhruvinrsoni.notion.site/Around-and-Beyond-Horizon-Blogs-and-Articles-2d197971458a803abf7be8245577b65b) · [GenAI · origin](https://dhruvinrsoni.notion.site/Future-with-GenAI-as-of-Aug-25-25997971458a801f8fd9e3bfa1797aa3)
 
+- **📜 First React App** — *(origin · 2019-ish · no source)* — My first ever React app, built from React's official docs tutorial. Live URL still serves the original CRA build (package `my-todo-app`, default CRA shell). The Firebase admin account is gone and the source code was never committed anywhere; this URL is all that's left.
+  [Live](https://first-todo-app-f98b3.firebaseapp.com/)
+
 ## Professional Summary
 Passionate Web Developer with experience in various web technologies and currently expanding my skills in DevOps. Proven ability to collaborate on projects and explore new technologies.
 
