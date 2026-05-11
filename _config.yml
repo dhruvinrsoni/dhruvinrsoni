@@ -38,9 +38,8 @@ social:
 # ----- Locale -----
 lang: en-US
 
-# TODO: once a 1200x630 PNG is added at /assets/og-image.png in the repo,
-# uncomment the next line to wire it into og:image / twitter:image:
-# image: /dhruvinrsoni/assets/og-image.png
+# OG image for social sharing (og:image / twitter:image)
+image: /dhruvinrsoni/assets/og-image.png
 
 # ----- Plugins (allowed on GitHub Pages) -----
 plugins:
