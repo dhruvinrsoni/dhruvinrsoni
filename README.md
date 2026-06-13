@@ -246,5 +246,8 @@ Stay connected and follow my journey on [Twitter](https://x.com/dhruvinrsoni) fo
 
 ## Resume
 
-For now, this page is just a simple placeholder. If you’d like to know more about my education & work etc. or get in touch, please feel free to check out my LinkedIn profile—consider it my resume for now!
+🚧 **Work in progress** — my résumé hub is still being polished, but you’re welcome to take a look:
+**[My Résumé Hub — KaushalForge →](https://dhruvinrsoni.github.io/kaushal-forge/)**
+
+In the meantime, my [LinkedIn profile](https://www.linkedin.com/in/dhruvinrsoni/) has the latest on my education & work—consider it my resume for now!
 See you...🙂
