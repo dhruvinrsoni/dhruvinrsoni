@@ -29,7 +29,7 @@ You can call me by my first name **"Dhruvin"** (*that's pronounced [d̪ʱruʋin]
 ---
 
 ### 📫 How to Reach Me  
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/dhruvinrsoni/). / [LinkedIn (Old)](https://linkedin.com/in/dhruvin-soni-367709116)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/dhruvinrsoni/). / [LinkedIn (Old) - https://linkedin.com/in/dhruvin-soni-367709116](https://linkedin.com/in/dhruvin-soni-367709116)
 - Check out my projects and contributions here on [GitHub](https://github.com/dhruvinrsoni).  
 - The internet has made the world smaller—feel free to reach out anytime! 🌍  
 
