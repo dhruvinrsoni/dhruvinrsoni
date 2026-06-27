@@ -137,9 +137,7 @@ Curated set of work worth a click. For the full live dashboard with sort / share
 Passionate Web Developer with experience in various web technologies and currently expanding my skills in DevOps. Proven ability to collaborate on projects and explore new technologies.
 
 Projects
-### Project 1: [zstock0holics](https://www.github.com/dhruvinrsoni-zebra/zstock0holics)
-Basic project of hackathon that happened in the company. 
-[Link](https://www.github.com/dhruvinrsoni-zebra/zstock0holics)
+[https://github.com/dhruvinrsoni?tab=repositories](https://github.com/dhruvinrsoni?tab=repositories)
 
 Welcome to my GitHub Page section of Professional Journey! Here, I share key milestones, testimonials, and future aspirations as I continue my journey in tech.
 
